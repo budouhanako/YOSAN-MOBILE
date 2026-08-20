@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844">
+  <defs>
+    <linearGradient id="top" x1="0" x2="1"><stop stop-color="#7663a9"/><stop offset="1" stop-color="#a997d4"/></linearGradient>
+    <linearGradient id="user" x1="0" x2="1"><stop stop-color="#ad96df"/><stop offset="1" stop-color="#cbbcf2"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#6e6782" flood-opacity=".18"/></filter>
+  </defs>
+  <rect width="390" height="844" fill="#fbfaff"/>
+  <circle cx="-22" cy="670" r="155" fill="#eeeaf8"/>
+  <circle cx="405" cy="835" r="110" fill="#eeeaf8"/>
+  <g opacity=".7" fill="#eeeaf8">
+    <circle cx="25" cy="254" r="8"/><circle cx="53" cy="254" r="8"/><circle cx="81" cy="254" r="8"/><circle cx="109" cy="254" r="8"/>
+    <circle cx="25" cy="282" r="8"/><circle cx="53" cy="282" r="8"/><circle cx="81" cy="282" r="8"/><circle cx="109" cy="282" r="8"/>
+    <circle cx="25" cy="310" r="8"/><circle cx="53" cy="310" r="8"/><circle cx="81" cy="310" r="8"/><circle cx="109" cy="310" r="8"/>
+  </g>
+  <rect x="12" y="12" width="366" height="48" rx="2" fill="url(#top)"/>
+  <g fill="#fff"><rect x="27" y="25" width="5" height="5"/><rect x="36" y="25" width="5" height="5"/><rect x="45" y="25" width="5" height="5"/><rect x="27" y="34" width="5" height="5"/><rect x="36" y="34" width="5" height="5"/><rect x="45" y="34" width="5" height="5"/><rect x="27" y="43" width="5" height="5"/><rect x="36" y="43" width="5" height="5"/><rect x="45" y="43" width="5" height="5"/></g>
+  <text x="195" y="43" text-anchor="middle" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="20" fill="#fff">内部预算执行</text>
+  <text x="354" y="44" text-anchor="middle" font-family="Arial" font-size="25" fill="#fff">⚙</text>
+  <rect x="28" y="78" width="334" height="84" rx="12" fill="url(#user)"/>
+  <circle cx="78" cy="120" r="29" fill="#fff" opacity=".95"/><circle cx="78" cy="112" r="10" fill="#9d9aa5"/><path d="M60 137c2-14 34-14 36 0" fill="#9d9aa5"/>
+  <text x="120" y="115" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="15" fill="#fff">Murphy</text><text x="120" y="139" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="12" fill="#f5f1ff">财务管理员</text>
+  <text x="28" y="197" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="16" font-weight="bold" fill="#4c4660">预算执行概览</text>
+  <text x="362" y="197" text-anchor="end" font-family="Arial" font-size="12" fill="#8b84a0">本月</text>
+  <g filter="url(#shadow)">
+    <rect x="28" y="212" width="160" height="82" rx="9" fill="#fff"/><rect x="202" y="212" width="160" height="82" rx="9" fill="#fff"/>
+    <rect x="28" y="306" width="160" height="82" rx="9" fill="#fff"/><rect x="202" y="306" width="160" height="82" rx="9" fill="#fff"/>
+  </g>
+  <g font-family="Arial,'Microsoft YaHei',sans-serif"><text x="45" y="237" font-size="12" fill="#77718c">可用预算</text><text x="45" y="270" font-size="25" font-weight="bold" fill="#4f86d9">¥ 128.6万</text><text x="219" y="237" font-size="12" fill="#77718c">已执行</text><text x="219" y="270" font-size="25" font-weight="bold" fill="#6f5baa">¥ 76.4万</text><text x="45" y="331" font-size="12" fill="#77718c">执行率</text><text x="45" y="365" font-size="25" font-weight="bold" fill="#f0a443">59.4%</text><text x="219" y="331" font-size="12" fill="#77718c">待审批</text><text x="219" y="365" font-size="25" font-weight="bold" fill="#ee7d76">12 笔</text></g>
+  <text x="28" y="423" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="16" font-weight="bold" fill="#4c4660">预算业务入口</text>
+  <g filter="url(#shadow)"><rect x="28" y="440" width="334" height="58" rx="10" fill="#fff"/><rect x="28" y="510" width="334" height="58" rx="10" fill="#fff"/><rect x="28" y="580" width="334" height="58" rx="10" fill="#fff"/><rect x="28" y="650" width="334" height="58" rx="10" fill="#fff"/></g>
+  <g font-family="Arial,'Microsoft YaHei',sans-serif"><text x="52" y="464" font-size="15" font-weight="bold" fill="#40394f">执行申请</text><text x="52" y="485" font-size="11" fill="#9891a7">新建预算执行申请单</text><text x="338" y="478" text-anchor="middle" font-size="27" fill="#f1b83b">＋</text><text x="52" y="534" font-size="15" font-weight="bold" fill="#40394f">采购立项</text><text x="52" y="555" font-size="11" fill="#9891a7">发起采购及合同占用</text><text x="338" y="548" text-anchor="middle" font-size="25" fill="#8d78cf">▣</text><text x="52" y="604" font-size="15" font-weight="bold" fill="#40394f">报销申请</text><text x="52" y="625" font-size="11" fill="#9891a7">提交费用报销并关联预算</text><text x="338" y="618" text-anchor="middle" font-size="25" fill="#70a9e9">▤</text><text x="52" y="674" font-size="15" font-weight="bold" fill="#40394f">执行查询</text><text x="52" y="695" font-size="11" fill="#9891a7">查看明细、进度与预警</text><text x="338" y="688" text-anchor="middle" font-size="25" fill="#74c4a6">⌕</text></g>
+  <rect x="0" y="776" width="390" height="68" fill="#fff" stroke="#eeeaf5"/>
+  <g font-family="Arial,'Microsoft YaHei',sans-serif" text-anchor="middle"><text x="48" y="802" font-size="22" fill="#7967ad">⌂</text><text x="48" y="824" font-size="10" fill="#7967ad">首页</text><text x="146" y="802" font-size="22" fill="#aaa5b5">▤</text><text x="146" y="824" font-size="10" fill="#aaa5b5">待办</text><text x="244" y="802" font-size="22" fill="#aaa5b5">◷</text><text x="244" y="824" font-size="10" fill="#aaa5b5">记录</text><text x="342" y="802" font-size="22" fill="#aaa5b5">●</text><text x="342" y="824" font-size="10" fill="#aaa5b5">我的</text></g>
+</svg>
